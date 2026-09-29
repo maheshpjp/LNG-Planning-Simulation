@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=200&section=header&text=LNG%20Planner&fontSize=70&fontColor=white&fontAlignY=38&desc=Annual%20LNG%20Planning%20%26%20Simulation%20System&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=200&section=header&text=LNG%20Planner&fontSize=70&fontColor=white&fontAlignY=38&desc=Annual%20LNG%20Planning%20and%20Simulation%20System&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
