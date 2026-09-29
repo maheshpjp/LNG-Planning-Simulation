@@ -415,25 +415,7 @@ python manage.py runserver
 
 ---
 
-## 📸 Screenshots
 
-| Login Page | Dashboard |
-|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
-| Master Data | Supplier Module |
-|---|---|
-| ![Master Data](screenshots/master-data.png) | ![Supplier](screenshots/supplier.png) |
-
-| Customer Module | Refinery & Cargo Modules |
-|---|---|
-| ![Customer](screenshots/customer.png) | ![Refinery & Cargo](screenshots/refinery-cargo.png) |
-
-| Bulk Supply Adjustment | Daily Inventory Projection |
-|---|---|
-| ![Bulk Adjustment](screenshots/bulk-adjustment.png) | ![Inventory Projection](screenshots/inventory-projection.png) |
-
----
 
 ## 🧠 Notes on the SAP Integration
 
@@ -447,12 +429,12 @@ python manage.py runserver
 
 <div align="center">
 
-**Your Name😉**
+**Mahesh Kumar Prajapati**
 
 *Full Stack Developer Intern · Indian Oil Corporation Limited (IOCL)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/mahesh-kumar-prajapati-190721281/)
+[![Email](maheshkumarprajapati518@gmail.com)
 
 </div>
 
